@@ -14,6 +14,7 @@
 
 // BEGIN_INCLUDE
 #include "_maps\_basemap.dm"
+#include "_maps\Eclipse.dm"
 #include "code\_compile_options.dm"
 #include "code\world.dm"
 #include "code\__DEFINES\_globals.dm"
@@ -3437,6 +3438,8 @@
 #include "nsv13\code\modules\vehicles\_vehicle.dm"
 #include "nsv13\code\modules\vehicles\hardpoint.dm"
 #include "nsv13\code\modules\vehicles\presets.dm"
+#include "nubon\code\hullrot\hullrot.dm"
+#include "nubon\code\hullrot\SShullrot.dm"
 // END_INCLUDE
 
 
